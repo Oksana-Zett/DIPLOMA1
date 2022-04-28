@@ -61,5 +61,5 @@ docker-compose -f docker-compose-postgresql.yml down
 ```
 java -jar aqa-shop.jar
 ```
-5. Открыть в Интернете веб-страницу http://localhost:8080 через браузер 
+5. Открыть веб-страницу http://localhost:8080 через браузер 
  
